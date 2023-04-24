@@ -10,7 +10,7 @@ Jawab :
    - FP memungkinkan untuk kode yang lebih pendek, mudah dibaca, dan mudah diperbaiki karena menghindari efek samping.
    - FP lebih berguna untuk masalah matematis, pengolahan data, dan pemrosesan paralel.
 
-Object-Oriented Programming  :
+   Object-Oriented Programming  :
    - OOP berfokus pada objek. Pemrograman berorientasi objek melibatkan definisi objek, yang memiliki atribut dan metode, dan digunakan untuk mengorganisir kode.
    - OOP memungkinkan untuk kode yang lebih terstruktur, mudah dikelola, dan mudah diperluas karena penggunaan konsep kelas dan objek.
    - OOP lebih berguna untuk pembuatan aplikasi, pengembangan perangkat lunak, dan pengembangan game.
